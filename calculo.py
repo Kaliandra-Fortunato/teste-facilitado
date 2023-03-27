@@ -8,6 +8,8 @@ resultado_soma = numero1 + numero2
 resultado_multiplicacao = numero1 * numero2
 print("A soma foi ", resultado_soma, " e a multiplicacao foi ", resultado_multiplicacao)
 
+
+
        
 
       
